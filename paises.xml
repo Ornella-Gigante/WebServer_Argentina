@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE paises SYSTEM "paises.dtd">
+<paises>
+   <pais id="ARG">
+      <nombre>Argentina</nombre>
+      <continente>América del Sur</continente>
+      <capital>Buenos Aires</capital>
+      <superficie>2,780,400 km²</superficie>
+      <poblacion>44,938,712</poblacion>
+      <ciudades>
+         <ciudad>Buenos Aires</ciudad>
+         <ciudad>Córdoba</ciudad>
+         <ciudad>Rosario</ciudad>
+         <ciudad>Mendoza</ciudad>
+      </ciudades>
+      <lenguas>
+         <lengua>Español</lengua>
+      </lenguas>
+      <religiones>
+         <religion>Catolicismo</religion>
+      </religiones>
+      <moneda>Peso argentino</moneda>
+   </pais>
+</paises>

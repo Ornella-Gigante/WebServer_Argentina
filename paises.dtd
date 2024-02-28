@@ -1,0 +1,16 @@
+<!ELEMENT paises (país+)>
+<!ELEMENT pais (nombre,continente,capital,superficie,poblacion,ciudades,lenguas,religiones,moneda)>
+<!ATTLIST pais id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT continente (#PCDATA)>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT superficie (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT ciudades (ciudad+)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT lenguas (lengua+)>
+<!ELEMENT lengua (#PCDATA)>
+<!ELEMENT religiones (religion+)>
+<!ELEMENT religion (#PCDATA)>
+<!ELEMENT moneda (#PCDATA)>
+
