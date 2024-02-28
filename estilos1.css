@@ -1,0 +1,78 @@
+body 
+{ 
+background-color: #F1F1F1; 
+font-family: Helvetica, Arial, sans-serif; 
+}
+.cabecera 
+{ 
+display: flex; 
+flex-direction: column; 
+align-items: center; 
+justify-content: center; 
+text-align: center; 
+background-color: #FFC107; 
+padding: 30px; 
+border: 2px solid #000000; 
+width: 60%; 
+margin: 0 auto; 
+border-radius: 10px; 
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+
+h2 
+{ 
+color: #A615AB; 
+font-size: 28px; 
+font-weight: bold; 
+margin-bottom: 10px; 
+}
+
+h3 
+{ 
+color: #2196F3; 
+font-size: 20px; 
+font-weight: bold; 
+margin-bottom: 10px; 
+}
+
+h4 
+{ 
+color: #4CAF50; 
+font-size: 18px; 
+font-weight: bold; 
+margin-bottom: 10px; 
+}
+
+img 
+{ 
+width: 250px; 
+height: auto; 
+margin-bottom: 20px; 
+border-radius: 50%; 
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+}
+
+h5 
+{ 
+color: #F44336; 
+font-size: 16px; 
+font-weight: bold; 
+margin-bottom: 5px; 
+}
+
+p 
+{ 
+color: #616161; 
+font-size: 14px; 
+margin-bottom: 10px; 
+}
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="¡CSS Válido!" />
+    </a>
+</p>
+            
+
