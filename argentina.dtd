@@ -1,0 +1,14 @@
+<!ELEMENT argentina (nombre, poblacion, continente, capital, fotografias)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT continente (#PCDATA)>
+<!ELEMENT capital (nombre, coordenadas)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT coordenadas (latitud, longitud)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT fotografias (fotografia+)>
+<!ELEMENT fotografia (nombre, descripcion, url)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT url (#PCDATA)>

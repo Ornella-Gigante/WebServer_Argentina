@@ -1,0 +1,61 @@
+body {
+  background-color: #808080;
+  font-family: Arial, sans-serif;
+}
+
+.cabecera {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #8F00FF;
+  padding: 20px;
+  border: 1px solid #000000;
+  width: 50%;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #0000FF;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  color: #FFA07A;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h4 {
+  color: #00FF00;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+h5 {
+  color: #7D2181;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+p {
+  color: #000000;
+  font-size: 14px;
+}
+
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="¡CSS Válido!" />
+    </a>
+</p>
