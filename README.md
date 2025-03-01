@@ -57,7 +57,6 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ## 🌐 Connect
 
-- [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
 Let's embark on a virtual journey through Argentina with **WebServer_Argentina**! 🎉
